@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"Era","characterIndex":4,"characterName":"EraCharacter","classId":1,"equips":[5,2,3,0,0],"faceIndex":1,"faceName":"EraEmotions_base","traits":[],"initialLevel":1,"maxLevel":99,"name":"Era","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"beach 2","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"RubyEmotions_swimsuit","traits":[],"initialLevel":1,"maxLevel":99,"name":"Swimming girl","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Yuna fight","characterIndex":4,"characterName":"Students","classId":2,"equips":[1,2,3,0,0],"faceIndex":1,"faceName":"Yuna_base","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuna","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Maya","characterIndex":5,"characterName":"Students","classId":3,"equips":[8,6,0,0,0],"faceIndex":3,"faceName":"Maiya_base","traits":[],"initialLevel":1,"maxLevel":99,"name":"Maiya","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Red-haired guy","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"Era_meido","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"EraEmotions_only_square_naked","traits":[],"initialLevel":1,"maxLevel":99,"name":"Era in a dress","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Era","characterIndex":4,"characterName":"EraCharacter","classId":1,"equips":[5,11,6,0,10],"faceIndex":1,"faceName":"EraEmotions_base","traits":[],"initialLevel":1,"maxLevel":99,"name":"Era without equipment","nickname":"","note":"","profile":""}
+]

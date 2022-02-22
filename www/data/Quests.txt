@@ -1,0 +1,182 @@
+<quest 1:Get your first assignment!| |0>
+Get a pass from Yuna,Find the blacksmith in town
+
+
+</quest>
+
+<quest 2:Defeat the monster in the cave.| |0>
+Go to the cave, ,Talk to Maiya at the university,Ask around at the tavern,Take salt from the university kitchen,Use salt against the giant slime,Go back to Maiya,Defeat the red slime,Find Maiya in town (ask about the slime)
+
+
+</quest>
+
+<quest 30:Monster Encyclopedia.| |0>
+Find the Monster Encyclopedia,Buy ice cream on the beach,Search for coins in town,Exchange ice cream for the encyclopedia,Find a quiet place to read
+
+
+</quest>
+
+<quest 3:After the fight| |0>
+Return the shards to Maiya (Т_Т),Wash off the slime in the lake
+
+
+</quest>
+
+<quest 31:I need to find my clothes!!!| |0>
+Go naked to the miners?! (T_T),Wait for the night in a secluded place,Look for clothes in crates
+
+
+</quest>
+
+<quest 4:Run errands for Maiya.| |0>
+Buy a paint brush,Collect red meanflowers,Collect blue meanflowers,Get a brush somewhere
+
+
+</quest>
+
+<quest 5:Wait for tomorrow.| |0>
+
+I can walk around town some more
+and finish my business, and then
+go back to my room at uni.</quest>
+
+<quest 6:Hot springs.| |1>
+Go to the hot springs (YAY!)
+
+
+</quest>
+
+<quest 7:Meet Maiya at the beach.| |0>
+
+
+
+</quest>
+
+<quest 8:Hand out all the flyers in body paint.| |0>
+
+How did I agree to this T_T</quest>
+
+<quest 9:Run away from the pursuers!| |0>
+
+
+
+</quest>
+
+<quest 10:Hide in the abandoned house.| |0>
+Hide in the house,Hide in the basement
+I have no choice,
+I'll have to wait until dark again T_T</quest>
+
+<quest 11:Talk to Maiya at the Alchemist's shop.| |0>
+
+
+
+</quest>
+
+<quest 12:Work in a shop.| |0>
+Change into work clothes,Help customers
+Help Maiya and Alan in the shop</quest>
+
+<quest 13:Work. Black magician.| |0>
+Bring the Grimoire from the 2nd floor,Find a ladder,Give the Grimoire to the Black magician
+The black magician is interested
+in a certain grimoire.</quest>
+
+<quest 14:Work. Girl and fireworks.| |0>
+Bring fireworks to the girl,The girl wants to buy fireworks,Sell fireworks to the girl,Give money to Alan
+
+</quest>
+
+<quest 15:Work. Forgotten purchase.| |0>
+Go to Alan,Catch up with the buyer (he's outside!)
+
+
+</quest>
+
+<quest 16:Work. Artist.| |0>
+Ask Maiya about the paint,Get the concentrate from the 2nd floor,Bring the concentrate to Maiya
+Help the artist</quest>
+
+<quest 17:Work. Help Maiya.| |0>
+List: 3 empty bottles,List: Dye concentrate,List: Coral powder,List: gold dust,List: Blind cat's eye,List: Salamander protective gloves,Find the key to the chest,Give the ingredients to Maiya
+
+
+</quest>
+
+<quest 18:Work. The cursed red-haired guy.| |0>
+To talk to Maiya,Bring the red-haired guy to Maiya
+
+
+</quest>
+
+<quest 19:Work. Gift for the bride.| |0>
+Help to pick a gift
+
+
+</quest>
+
+<quest 20:Work. The girl and the hair dye.| |0>
+Bring the girl hair dye
+
+
+</quest>
+
+<quest 21:Work. Helping Alan.| |0>
+Return the books to the 2nd floor
+
+
+</quest>
+
+<quest 22:Clothing shop.| |1>
+Try on all swimsuits
+
+
+</quest>
+
+<quest 23:Return the shards to Maiya (Т_Т)| |0>
+Talk to Maiya in the Alchemist's shop
+
+
+</quest>
+
+<quest 24:Giant flower.| |0>
+Find a way to defeat the giant flower,Improve your weapons,Ask the farmer for a flint,Give the flint to the blacksmith,Destroy the weeds,Defeat the giant flower
+
+
+</quest>
+
+<quest 25:Blacksmith's niece.| |0>
+Go to the cave,Find and return clothes to the niece,Return to the blacksmith
+
+
+</quest>
+
+<quest 26:Farmer.| |1>
+Destroy the weeds
+
+
+</quest>
+
+<quest 27:Beach. The girl behind a tree.| |0>
+Go to the girl behind a tree,Find a bag of clothes,Distract the little sister,Return the bag to the girl
+
+
+</quest>
+
+<quest 28:Beach. Swimming girl.| |0>
+Talk to the swimming girl,Find the top of the swimsuit,Find the bottom of the swimsuit,Find the rope,Use the rope to climb the ledge,Return the swimsuit to the swimming girl
+
+
+</quest>
+
+<quest 29:Time to go back for my clothes -_-| |0>
+
+
+
+</quest>
+
+<quest 32:Improve your weapons.| |0>
+
+
+
+</quest>
